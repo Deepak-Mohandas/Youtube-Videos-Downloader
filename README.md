@@ -38,12 +38,12 @@ This video is downloaded by Youtube Video Downloader.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Youtube-Videos-Downloader/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20211951.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Youtube-Videos-Downloader/blob/main/Result/Screenshot%202022-11-29%20211951.png)
 
 
 After Downloaded the URL.
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Youtube-Videos-Downloader/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20212405.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Youtube-Videos-Downloader/blob/main/Result/Screenshot%202022-11-29%20212405.png)
 
 
 
